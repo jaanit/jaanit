@@ -1,4 +1,4 @@
 - 👋 Hi, I’m reda jaanit
 - I'm a student at 42 Network(1337) khouribgha morocco 
 - I'm architecte digital
-- this github contains my school projects
+- this github contains my projects
