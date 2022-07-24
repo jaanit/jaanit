@@ -1,7 +1,7 @@
 <h3 align="left">👋 Hi, I’m reda jaanit</h7>
 <h3 align="left">this github contains my projects</h7>
 
-<img src="https://www.pngkey.com/png/full/96-967153_artificial-intelligence-image-ai-artificial-intelligence-logo.png" alt="c" width="40" height="40"/> </a>
+<img src="https://www.pngkey.com/png/full/96-967153_artificial-intelligence-image-ai-artificial-intelligence-logo.png" alt="c" width="400" height="400"/> </a>
 
 [![rjaanit's 42 stats](https://badge42.vercel.app/api/v2/cl4pr9x2r006809jmjvw4nsa8/stats?cursusId=21&coalitionId=76)](https://twitter.com/Jaanit0)
 
