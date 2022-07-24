@@ -1,4 +1,4 @@
-<h3 align="left">LAGALA</h7>
+<h3 align="left">LAGALA</h5>
 - 👋 Hi, I’m reda jaanit
 - this github contains my projects
 
