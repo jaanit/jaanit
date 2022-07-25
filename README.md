@@ -2,7 +2,6 @@
 <h3 align="left">this github contains my projects</h4
  
 <a href="https://profile.intra.42.fr/"><img src="https://badge42.vercel.app/api/v2/cl4pr9x2r006809jmjvw4nsa8/stats?cursusId=21&coalitionId=76" alt="rjaanit's 42 stats" /></a>
-<img src="https://www.pngkey.com/png/full/96-967153_artificial-intelligence-image-ai-artificial-intelligence-logo.png" alt="c" width="400" height="400"/> </a>
 <h3 align="left">Languages and Tools:</h3>
 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" alt="c" width="50" height="50"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/></a>
