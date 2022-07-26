@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jaanit Reda</h1>
-<h3 align="center"> I am interested in artificial intelligence in various fields.</h3>
+<h3 align="center"> I am interested in Artificial Intelligence in various fields.</h3>
 
 - Moroccan Software Engineer Student in 1337 khouribga morocco
   
