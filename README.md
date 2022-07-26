@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jannit Reda</h1>
+<h1 align="center">Hi 👋, I'm Jaanit Reda</h1>
 <h3 align="center">Moroccan Software Engineer Student in 1337 khouribga morocco</h3>
   
 <a href="https://profile.intra.42.fr/users/rjaanit"><img src="https://badge.mediaplus.ma/greenbinary/rjaanit" alt="rjaanit's 42 stats" /></a>
