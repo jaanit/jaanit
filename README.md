@@ -1,5 +1,5 @@
-<h3 align="left">👋 Hi, I’m reda jaanit</h3>
-<h3 align="left">this github contains my projects</h3>
+<h1 align="center">Hi 👋, I'm Jannit Reda /h1>
+<h3 align="center">Moroccan Software Engineer Student in 1337 khouribga morocco</h3>
 <a href="https://profile.intra.42.fr/users/rjaanit"><img src="https://badge.mediaplus.ma/greenbinary/rjaanit" alt="rjaanit's 42 stats" /></a>
 
 <h3 align="left">Language and Tools:</h3>
