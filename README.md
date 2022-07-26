@@ -1,6 +1,5 @@
 <h3 align="left">👋 Hi, I’m reda jaanit</h4>
 <h3 align="left">this github contains my projects</h4
- 
 <a href="https://profile.intra.42.fr/"><img src="https://badge42.vercel.app/api/v2/cl4pr9x2r006809jmjvw4nsa8/stats?cursusId=21&coalitionId=76" alt="rjaanit's 42 stats" /></a>
 <h3 align="left">Languages and Tools:</h3>
 
