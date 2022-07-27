@@ -4,6 +4,7 @@
 - Moroccan Software Engineer Student in 1337 khouribga morocco
 
 <a href="https://profile.intra.42.fr/users/rjaanit"><img src="https://badge.mediaplus.ma/greenbinary/rjaanit" alt="rjaanit's 42 stats" /></a>
+
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaanit&show_icons=true&theme=react&line_height=40" alt="LAGALA's github stats"/>
 </a>
 <h3 align="left">Language and Tools:</h3>
