@@ -2,7 +2,7 @@
 <h3 align="center"> I am interested in Artificial Intelligence in various fields.</h3>
 
 - Moroccan Software Engineer Student in 1337 khouribga morocco
-- 
+
 <a href="https://profile.intra.42.fr/users/rjaanit"><img src="https://badge.mediaplus.ma/greenbinary/rjaanit" alt="rjaanit's 42 stats" /></a>
 
 <h3 align="left">Language and Tools:</h3>
