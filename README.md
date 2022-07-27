@@ -11,10 +11,7 @@
 <a href="https://twitter.com/Jaanit0/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios-filled/100/000000/twitter.png" alt="c" width="40" height="40"/> </a> <a href="https://www.linkedin.com/in/reda-jaanit-008a0823a/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios-filled/100/000000/linkedin.png" alt="c" width="40" height="40"/> </a>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaanit&show_icons=true&locale=en&layout=compact" alt="miid0" /></p>
 
-<a href="https://github.com/MITIRIX">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MITIRIX&theme=react" />
-</a>
-</a>
-<a href="https://github.com/MITIRIX">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=MITIRIX&show_icons=true&theme=react&line_height=40" alt="MITIRIX's github stats"/>
+
+<a href="https://github.com/jaanit">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaanit&show_icons=true&theme=react&line_height=40" alt="LAGALA's github stats"/>
 </a>
