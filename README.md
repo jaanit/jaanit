@@ -14,3 +14,7 @@
 <a href="https://github.com/MITIRIX">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MITIRIX&theme=react" />
 </a>
+</a>
+<a href="https://github.com/MITIRIX">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=MITIRIX&show_icons=true&theme=react&line_height=40" alt="MITIRIX's github stats"/>
+</a>
