@@ -3,7 +3,7 @@
 
 -  1337 Student in khouribga morocco
 
-<a href="https://profile.intra.42.fr/users/rjaanit"><img src="https://badge.mediaplus.ma/greenbinary/rjaanit" alt="rjaanit's 42 stats" /></a>
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl4pr9x2r006809jmjvw4nsa8/stats?cursusId=21&coalitionId=76" alt="rjaanit's 42 stats" /></a>
 
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaanit&show_icons=true&theme=react&line_height=40" alt="LAGALA's github stats"/>
 </a>
