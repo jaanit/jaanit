@@ -12,5 +12,5 @@
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/Jaanit0/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios-filled/100/000000/twitter.png" alt="c" width="40" height="40"/> </a> <a href="https://www.linkedin.com/in/reda-jaanit-008a0823a/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios-filled/100/000000/linkedin.png" alt="c" width="40" height="40"/> </a>
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
 
