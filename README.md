@@ -11,7 +11,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
         <summary><b>check  today's wisdom👇🏻</b></summary>
     <br>
         
-        <-- **Programming is like sex. One mistake and you have to support it for the rest of your life**. -->
+        <-- Programming is like sex. One mistake and you have to support it for the rest of your life. -->
 </div>
 
 |           💻 **Technology**            | 🚀 **Projects**              |
