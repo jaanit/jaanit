@@ -10,10 +10,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <a href="https://twitter.com/Jaanit0/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios-filled/100/000000/twitter.png" alt="c" width="40" height="40"/> </a> <a href="https://www.linkedin.com/in/reda-jaanit-008a0823a/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios-filled/100/000000/linkedin.png" alt="c" width="40" height="40"/> </a>
 
 
-<div align="center">
-    <details>
-        <summary><b>GitHub Metrics👇🏻</b></summary>
-    <br>
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
 | - | - |
