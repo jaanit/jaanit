@@ -21,3 +21,5 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 | [![C](https://img.shields.io/static/v1?label=&message=language&color=3776AB&logo=C&logoColor=FFFFFF)](https://flask.palletsprojects.com/en/2.1.x/) | [![bitgrit-personality-api](https://img.shields.io/static/v1?label=&message=push-swap&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/jaanit/push_swap) [![lib-ft](https://img.shields.io/static/v1?label=&message=lib-ft&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/jaanit/libft) [![lib-ft](https://img.shields.io/static/v1?label=&message=pipex&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/jaanit/pipex) [![lib-ft](https://img.shields.io/static/v1?label=&message=ft_printf&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/jaanit/ft_printf) 
 </div>
 
+<p><a href="https://www.twitter.com/jaanit0"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
+
