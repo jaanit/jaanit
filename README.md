@@ -11,7 +11,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
         <summary><b>GitHub Metrics👇🏻</b></summary>
     <br>
         
-        <-- DIMA BARCA  -->
+        <-- My code doesn’t always work, but when it does I don’t know why. -->
 </div>
 
 |           💻 **Technology**            | 🚀 **Projects**              |
