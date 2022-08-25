@@ -17,7 +17,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
         <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
 | - | - |
-| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF)](https://www.python.org/) | [![HackerRank](https://img.shields.io/static/v1?label=&message=HackerRank&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/jaanit/hackerrank-PYTHON)
+| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF)](https://www.python.org/) | [![HackerRank](https://img.shields.io/static/v1?label=&message=HackerRank&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/jaanit/hackerrank-PYTHON) ** [![Passeword-Generator](https://img.shields.io/static/v1?label=&message=Passeword-Generator&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/jaanit/password_generator)
     </details>
 </div>
 
