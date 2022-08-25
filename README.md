@@ -8,7 +8,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 <div align="center">
     <details>
-        <summary><b>GitHub Metrics👇🏻</b></summary>
+        <summary><b>check  today's wisdom👇🏻</b></summary>
     <br>
         
         <-- Programming is like sex. One mistake and you have to support it for the rest of your life. -->
