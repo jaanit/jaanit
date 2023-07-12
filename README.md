@@ -24,17 +24,8 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
 </p>
  
 <div align="center">
-    <details>
-        <summary><b>check  today's wisdom👇🏻</b></summary>
-    <br>
-        
-        <-- Programming is like sex. One mistake and you have to support it for the rest of your life. -->
+        <summary><b>< Programming is like sex. One mistake and you have to support it for the rest of your life. ></b></summary>
 </div>
-
-|           💻 **Technology**            | 🚀 **Projects**              |
-|     -     |       -        |
-| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF)](https://www.python.org/) | [![HackerRank](https://img.shields.io/static/v1?label=&message=PREPARE-BY-TOPICS&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/jaanit/hackerrank-PYTHON) [![Passeword-Generator](https://img.shields.io/static/v1?label=&message=Passeword-Generator&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/jaanit/password_generator) [![MNPC22](https://img.shields.io/static/v1?label=&message=MNPC22&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/jaanit/MNPC22) |
-| [![C](https://img.shields.io/static/v1?label=&message=language&color=3776AB&logo=C&logoColor=FFFFFF)](https://fr.wikipedia.org/wiki/C_(langage)) | [![bitgrit-personality-api](https://img.shields.io/static/v1?label=&message=push-swap&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/jaanit/push_swap) [![lib-ft](https://img.shields.io/static/v1?label=&message=lib-ft&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/jaanit/libft) [![lib-ft](https://img.shields.io/static/v1?label=&message=pipex&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/jaanit/pipex) [![lib-ft](https://img.shields.io/static/v1?label=&message=ft_printf&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/jaanit/ft_printf) 
 
 
 
