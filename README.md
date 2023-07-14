@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jaanit Reda</h1>
+
+<img align='center' src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/output/github-contribution-grid-snake.gif' width='900"'>
+
 <h3 align="center"> I am interested in Artificial Intelligence in various fields.</h3>
+
 
   Nice to meet you! I'm currently student at 1337 as a software enginee, my passion for coding lies with dreaming up ideas and making them come true , i take great care in the programming with python, c++ in various fields  and code quality of the things I build,
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
