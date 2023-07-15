@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jaanit Reda</h1>
 
-<img align='center' src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/output/github-contribution-grid-snake.gif' width='900"'>
+<img align='center' src='https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg' width='900"'>
 
 <h3 align="center"> I am interested in Artificial Intelligence in various fields.</h3>
 
