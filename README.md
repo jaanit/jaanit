@@ -26,10 +26,12 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="38" height="38" alt="Docker" /></a>
 
 </p>
- 
-<div align="center">
-        <summary><b>< Programming is like sex. One mistake and you have to support it for the rest of your life. ></b></summary>
-</div>
+
+ ### Problem Solving 
+
+ <a href="https://codeforces.com/profile/lagala/" target="_blank" rel="noreferrer"><img src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg" width="36" height="36" alt="TypeScript" /></a>
+ <a href="https://www.codingame.com/profile/e394a01d83bedd4f6bca928d799734d24294584/" target="_blank" rel="noreferrer"><img src="https://cdn.cdnlogo.com/logos/c/58/codingame.svg" width="32" height="32" alt="TypeScript" /></a>
+
 
 
 
