@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jaanit Reda</h1>
 
-<img align='center' src='https://media.giphy.com/media/3oriOb7NK3Fsbrp0wU/giphy.gif' width='900"'>
+<img align='center' src='https://media.giphy.com/media/3oriOb7NK3Fsbrp0wU/giphy.gif' width='9000"'>
 
 <h3 align="center"> I am interested in Artificial Intelligence in various fields.</h3>
 
