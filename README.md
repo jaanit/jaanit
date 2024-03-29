@@ -2,7 +2,7 @@
 
 <img align='center' src='https://miro.medium.com/v2/resize:fit:3200/0*de0IdiUSoJTwgsys.gif' width='9000"'>
 
-<h3 align="center"> web development passionate.</h3>
+<h3 align="center"> Full-Stack JavaScript Developer.</h3>
 
 
   Nice to meet you!   I'm currently student at 1337 as a software developer, I went from low-level programming to a Javascript & typescript  and web development passionate.
