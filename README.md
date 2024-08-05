@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Jaanit Reda</h1>
-
-<img align='center' src='https://miro.medium.com/v2/resize:fit:3200/0*de0IdiUSoJTwgsys.gif' width='9000"'>
-
 <h3 align="center"> Full-Stack JavaScript Developer.</h3>
 
 
   Nice to meet you!   I'm currently student at 1337 as a software developer, I went from low-level programming to a Javascript & typescript  and web development passionate.
+
+### Github stats 
+
+ ![gruvbox](https://awesome-github-stats.azurewebsites.net/user-stats/jaanit?theme=gruvbox)
+
+
 
 ### Contact me 
 
@@ -38,6 +41,8 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
 
  <a href="https://codeforces.com/profile/lagala/" target="_blank" rel="noreferrer"><img src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg" width="36" height="36" alt="TypeScript" /></a>
  <a href="https://www.codingame.com/profile/e394a01d83bedd4f6bca928d799734d24294584/" target="_blank" rel="noreferrer"><img src="https://cdn.cdnlogo.com/logos/c/58/codingame.svg" width="32" height="32" alt="TypeScript" /></a>
+
+
 
 
 
