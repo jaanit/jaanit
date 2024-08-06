@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jaanit Reda</h1>
-<h3 align="center"> Full-Stack JavaScript Developer.</h3>
+<h3 align="center"> Frontend Developer.</h3>
 
 
-  Nice to meet you!   I'm currently student at 1337 as a software developer, I went from low-level programming to a Javascript & typescript  and web development passionate.
+  Nice to meet you!  I'm Frontend developer , I went from low-level programming to a Javascript and web development passionate.
 
 <div align=''>
     <picture>
