@@ -9,11 +9,11 @@
 
 
 
- <div style="display: flex; justify-content: center; margin-top: 20px;">
-   <div>
-     <img src="https://streak-stats.demolab.com/?user=jaanit&show_icons=true&theme=transparent" alt="GitHub Streak"/>
+ <div style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://streak-stats.demolab.com/?user=jaanit&show_icons=true&theme=transparent" alt="GitHub Streak"/>
     <img src="https://github-readme-stats.vercel.app/api?username=jaanit&show_icons=true&theme=transparent" alt="Anurag's GitHub stats"/>
-  </div>
+</div>
+
   <!-- Two sections in a column -->
 
   <!-- One section on the left -->
@@ -21,7 +21,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaanit&show_icons=true&theme=transparent" alt="Top Langs"/>
   </div>
 
-</div>
 
 
 ### Contact me 
