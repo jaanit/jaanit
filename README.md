@@ -3,18 +3,10 @@
 
 
   Nice to meet you!  I'm Frontend developer , I went from low-level programming to a Javascript and web development passionate.
-
-<div align=''>
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jaanit&show_icons=true&count_private=true&include_all_commits=true&custom_title=My%20Stats&hide_border=true&theme=github_dark">
-        <img src='https://github-readme-stats.vercel.app/api?username=jaanit&show_icons=true&count_private=true&include_all_commits=true&custom_title=My%20Stats&hide_border=true' alt='My-Github-Stats'>
-    </picture>
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jaanit&custom_title=Extensions&langs_count=3&hide_border=true&hide=html%23css%23MATLAB&theme=github_dark">
-        <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=jaanit&custom_title=Extensions&langs_count=3&hide_border=true&hide=html%23css%23MATLAB' alt='Top-Extensions'>
-    </picture>
-</div>
-
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaanit&show_icons=true&theme=transparent)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&show_icons=true&theme=transparent)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&&show_icons=true&theme=transparent)
 ### Contact me 
 
 <p><a href="https://www.twitter.com/redajaanit"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/reda-jaanit-008a0823a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
