@@ -10,6 +10,7 @@
 
 
  <div style="display: flex; justify-content: center; margin-top: 20px;">
+   <div>
      <img src="https://streak-stats.demolab.com/?user=jaanit&show_icons=true&theme=transparent" alt="GitHub Streak"/>
     <img src="https://github-readme-stats.vercel.app/api?username=jaanit&show_icons=true&theme=transparent" alt="Anurag's GitHub stats"/>
   </div>
