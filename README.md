@@ -6,18 +6,22 @@
 
 # GitHub Stats
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
-  <!-- Left column with two sections -->
-  <div style="display: flex; flex-direction: column;">
+<div align="left">
+
+  <!-- Two sections in a column -->
+  <div style="display: flex; flex-direction: column; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=jaanit&show_icons=true&theme=transparent" alt="Anurag's GitHub stats"/>
     <a href="https://git.io/streak-stats">
       <img src="https://streak-stats.demolab.com/?user=jaanit&show_icons=true&theme=transparent" alt="GitHub Streak"/>
     </a>
   </div>
-  <!-- Right section -->
-  <div>
+
+  <!-- One section on the left -->
+  <div style="display: flex; margin-top: 20px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaanit&show_icons=true&theme=transparent" alt="Top Langs"/>
   </div>
+
+</div>
 </div>
 
 
