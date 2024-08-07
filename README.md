@@ -9,8 +9,8 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaanit&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&&show_icons=true&theme=transparent)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&show_icons=true&theme=transparent)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaanit&&show_icons=true&theme=transparent)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jaanit&show_icons=true&theme=transparent)](https://git.io/streak-stats)
 
 
 ### Contact me 
