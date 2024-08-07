@@ -6,24 +6,11 @@
 
 # GitHub Stats
 
-<div align="left">
 
-  <!-- Two sections in a column -->
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=jaanit&show_icons=true&theme=transparent" alt="Anurag's GitHub stats"/>
-    <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com/?user=jaanit&show_icons=true&theme=transparent" alt="GitHub Streak"/>
-    </a>
-  </div>
 
-  <!-- One section on the left -->
-  <div style="display: flex; margin-top: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaanit&show_icons=true&theme=transparent" alt="Top Langs"/>
-  </div>
-
-</div>
-</div>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaanit&show_icons=true&theme=transparent)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&show_icons=true&theme=transparent)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&&show_icons=true&theme=transparent)
 
 ### Contact me 
 
