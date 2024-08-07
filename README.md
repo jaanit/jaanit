@@ -3,10 +3,24 @@
 
 
   Nice to meet you!  I'm Frontend developer , I went from low-level programming to a Javascript and web development passionate.
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaanit&show_icons=true&theme=transparent)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&show_icons=true&theme=transparent)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&&show_icons=true&theme=transparent)
+
+# GitHub Stats
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
+  <!-- Left column with two sections -->
+  <div style="display: flex; flex-direction: column;">
+    <img src="https://github-readme-stats.vercel.app/api?username=jaanit&show_icons=true&theme=transparent" alt="Anurag's GitHub stats"/>
+    <a href="https://git.io/streak-stats">
+      <img src="https://streak-stats.demolab.com/?user=jaanit&show_icons=true&theme=transparent" alt="GitHub Streak"/>
+    </a>
+  </div>
+  <!-- Right section -->
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaanit&show_icons=true&theme=transparent" alt="Top Langs"/>
+  </div>
+</div>
+
+
 ### Contact me 
 
 <p><a href="https://www.twitter.com/redajaanit"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/reda-jaanit-008a0823a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
