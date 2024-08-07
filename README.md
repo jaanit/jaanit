@@ -11,11 +11,10 @@
 <div align="left">
  <div style="display: flex; justify-content: center; margin-top: 20px;">
      <img src="https://streak-stats.demolab.com/?user=jaanit&show_icons=true&theme=transparent" alt="GitHub Streak"/>
-  </div>
-  <!-- Two sections in a column -->
-  <div style="display: flex; flex-direction: column; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=jaanit&show_icons=true&theme=transparent" alt="Anurag's GitHub stats"/>
   </div>
+  </div>
+  <!-- Two sections in a column -->
 
   <!-- One section on the left -->
   <div style="display: flex; justify-content: center; margin-top: 20px;">
