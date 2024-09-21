@@ -3,7 +3,7 @@
 
 
   Nice to meet you!  I'm Frontend developer , I went from low-level programming to a Javascript and web development passionate.
-
+![](https://komarev.com/ghpvc/?username=jaanit)
 # GitHub Stats
 
 
