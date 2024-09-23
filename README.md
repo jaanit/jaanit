@@ -37,13 +37,11 @@
 
 <p><a href="https://www.twitter.com/redajaanit"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/reda-jaanit-008a0823a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <!-- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="25" height="25"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" alt="c" width="23" height="24"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="25"/></a> -->
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="25"/></a> x### Problem Solving 
+<a href="https://codeforces.com/profile/lagala/" target="_blank" rel="noreferrer"><img src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg" width="36" height="36" alt="TypeScript" /></a>
+ <a href="https://www.codingame.com/profile/e394a01d83bedd4f6bca928d799734d24294584/" target="_blank" rel="noreferrer"><img src="https://cdn.cdnlogo.com/logos/c/58/codingame.svg" width="32" height="32" alt="TypeScript" /></a> -->
 
- ### Problem Solving 
-
- <a href="https://codeforces.com/profile/lagala/" target="_blank" rel="noreferrer"><img src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg" width="36" height="36" alt="TypeScript" /></a>
- <a href="https://www.codingame.com/profile/e394a01d83bedd4f6bca928d799734d24294584/" target="_blank" rel="noreferrer"><img src="https://cdn.cdnlogo.com/logos/c/58/codingame.svg" width="32" height="32" alt="TypeScript" /></a>
-
+ 
 
 
 
